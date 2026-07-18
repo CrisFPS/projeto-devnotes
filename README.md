@@ -6,9 +6,9 @@ Exercício de especialização do microcurso **Gerência de Projetos de Software
 
 ## 📌 Descrição do projeto
 
-Este repositório reúne os artefatos de **gerenciamento de riscos, comunicação e documentação** produzidos para um cenário fictício de projeto de software: a **expansão da aplicação DevNotes**.
+Este repositório reúne os artefatos de **gerenciamento de riscos, comunicação e documentação** produzidos para um **projeto real**: a **expansão da aplicação DevNotes**.
 
-O **DevNotes** é uma aplicação originalmente concebida como ferramenta **local e de uso individual** para organizar, pesquisar e reutilizar conteúdos técnicos (snippets, SQLs, scripts, anotações, arquivos de sistemas legados e regras de negócio). A partir de novas demandas — interface moderna, suporte a **2.000 conexões simultâneas** e armazenamento de documentos dos usuários em banco de dados — surge a necessidade de **migrá-la para uma plataforma web multiusuário**.
+O **DevNotes** é uma aplicação real, desenvolvida em microcurso anterior desta mesma especialização, originalmente concebida como ferramenta **local e de uso individual** para organizar, pesquisar e reutilizar conteúdos técnicos (snippets, SQLs, scripts, anotações, arquivos de sistemas legados e regras de negócio). A partir de novas demandas — interface moderna, suporte a **2.000 conexões simultâneas** e armazenamento de documentos dos usuários em banco de dados — surge a necessidade de **migrá-la para uma plataforma web multiusuário**.
 
 Essa mudança de propósito, que rompe com as premissas originais do MVP, é o pano de fundo sobre o qual foram conduzidas as atividades de **identificação, análise e resposta a riscos**, além da **comunicação aos stakeholders**.
 
